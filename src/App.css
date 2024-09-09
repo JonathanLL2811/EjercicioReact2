@@ -1,0 +1,25 @@
+
+body {
+  background-color: #9c8bff; 
+}
+
+.container {
+  background-color: #d9b5fc; 
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-control {
+  border-radius: 4px;
+}
+
+.btn-primary {
+  background-color: #5a2dd6; 
+  border-color: #008cff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; 
+  border-color: #004085;
+}
